@@ -1,0 +1,25 @@
+names:
+- Acanthuridae -Surgeonfishes-
+- Balistidae -Triggerfishes-
+- Carangidae -Jacks-
+- Ephippidae -Spadefishes-
+- Labridae -Wrasse-
+- Lutjanidae -Snappers-
+- Pomacanthidae -Angelfishes-
+- Pomacentridae -Damselfishes-
+- Scaridae -Parrotfishes-
+- Scombridae -Tunas-
+- Serranidae -Groupers-
+- Shark -Selachimorpha-
+- Zanclidae -Moorish Idol-
+nc: 13
+roboflow:
+  license: Public Domain
+  project: fish-yzfml
+  url: https://universe.roboflow.com/roboflow-gw7yv/fish-yzfml/dataset/44
+  version: 44
+  workspace: roboflow-gw7yv
+test: C:/Users/user/Desktop/object_D/runs/Fish-44/test/images
+train: C:/Users/user/Desktop/object_D/runs/Fish-44/train/images
+val: C:/Users/user/Desktop/object_D/runs/Fish-44/valid/images
+
